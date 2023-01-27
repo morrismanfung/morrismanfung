@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a final year Psychology student in the University of Hong Kong.
-As I do not have a CS background, I develop my programming skill through self-learning. I'm learning:
-- python
-- R
-- Matlab
-
-I'm planning to do a master degree in Data Science in the future because I enjoy the processes of finding insights from data.
-To further develop and train my skills, I'm currently looking for entry positions with the opportunity to pre-process or analyze data.
+A conscientious, mindful data science student. Self-motivated and analytical. Aiming for a junior position in data science.
